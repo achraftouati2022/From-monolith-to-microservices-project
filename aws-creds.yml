@@ -5,5 +5,6 @@ metadata:
 data:
   credentials: |
     [default]
-    aws_access_key_id = AKIAUEVXKHGCKVWRNXII
-    aws_secret_access_key = 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
+    aws_access_key_id = ASIAUEVXKHGCHOJ7KO5H
+    aws_secret_access_key = uGHaK3bNDIrexltIFzfcrC7U1xyTKdAzz0bV6Ttd
+    aws_session_token = FwoGZXIvYXdzEBsaDCISeXEmzxJhDd/6pSK7ASj/RpSALEvZjZmc1Ux0F/mAMbqJvhdR64oBERGhR82O4LlHQMOX8VtmmPSAjuhH8CK27lZzPXQI7OsRPKJ7TSIYb9b5GKY6qNO5e2uOfn/6NCuVhktvtUE5uHuOPx5GKY6qNO5e2uOfn/6NCuVhktvtUE5uHuOPxSuJ15CuOU3bqS2oZ96l6et/xA94xInekDkV/T8KyBATNWuCbQiptufK8q19LluJHbPi5ajoqrrtnU9xlRghCH9jznck2kXNemtb0RYCIw+aiM6if9AmdCreZOh09emp0jeXiTI4V3cvrHX0zl6jKyUcuqWkxZ52IortXxmQYyLegPEDpe9yU2G9AmdCreZOh09emp0jeXiTI4V3cvrHX0zl6jKEu9i0mjMZzmaw==
