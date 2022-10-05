@@ -41,3 +41,7 @@ venv/
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 set_env.sh
+aws-creds.yml
+delete-script.sh
+apply-script.sh
+apply-services.sh
